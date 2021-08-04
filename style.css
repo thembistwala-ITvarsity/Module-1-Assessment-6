@@ -1,0 +1,167 @@
+body
+{
+    background-color: #efefef;
+    font-family: sans-serif; 
+}
+#menu{
+    width: 100%;
+    height: 40px;
+    background-color: #358597;
+    padding-top: 12px;
+
+}
+
+#menu a{
+    color: cornsilk;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    text-decoration: none;
+    font-weight: 800;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+#menu a:hover{
+    color: #f4a896;
+
+    
+}
+h1{
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    font-size: 30px;
+    color: #C0A50C;
+    font-style: ;
+}
+h2{
+    font-family: 'Times New Roman', Times, serif;
+    text-align: ;
+    font-size: 30px;
+    color: #c54082b2;
+    font-style: ;
+}
+h3{
+    font-family: 'Times New Roman', Times, serif;
+    text-align: ;
+    font-size: 30px;
+    color: #c54082b2;
+    font-style: ;
+}
+
+h4{
+   font-family: 'Times New Roman', Times, serif;
+   font-size: 20px;
+   font-style: ;
+   color:#B8A4A4 ;
+
+}
+
+p{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: medium;
+    color: #110404fa;
+}
+table{
+    width: 400px;
+    font-family:  Helvetica, sans-serif;
+    border-collapse: collapse;
+    border-width: 1px;
+    border-style: solid;
+    border-color: #83a8ad;
+
+}
+th{
+    text-align: left;
+}
+
+
+tr:nth-child(even) {
+    background-color: #3585971e;
+}
+
+tr:nth-child(odd){
+    background-color:rgba(184, 163, 163, 0.541);
+}
+th, td{
+    padding: 10px;
+}
+th,td a:hover{
+    background-color:#f4a896 ;
+    color: #ffffff;
+}
+
+*
+{
+    margin:0;
+    padding: ;
+}
+body
+{
+    background-color: #efefef;
+    font-family: sans-serif; 
+}
+.contact-box
+{
+    width: 500px;
+    background-color:#fff ;
+    box-shadow: 0 0 20px 0 #999;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    position: absolute;
+}
+
+form
+{
+    margin: 35px;
+
+}
+.input-field
+{
+    width: 400px;
+    height: 40px;
+    margin-top: 20px;
+    padding-left: 10px;
+    padding-right: 10px;
+    border: 1px solid #777;
+    border-radius: 14px;
+    outline: none;
+}
+
+.textarea-field
+{
+    height: 150px;
+    padding-top: 10px;
+
+}
+.btn
+{
+    border-radius: 20px;
+    color: #fff;
+    padding: 10px;
+    background-color: #47c35a;
+    font-size: 12px;
+    border: none;
+    cursor: pointer;
+}
+
+.btn1
+{
+    border-radius: 20px;
+    color: #fff;
+    padding: 10px;
+    background-color: #f00c0c;
+    font-size: 12px;
+    border: none;
+    cursor: pointer;
+}
+.btn2
+{
+    border-radius: 20px;
+    color: #fff;
+    padding: 10px;
+    background-color: #1c19ca;
+    font-size: 12px;
+    border: none;
+    cursor: pointer;
+}
+
