@@ -67,6 +67,7 @@ table{
     border-width: 1px;
     border-style: solid;
     border-color: #83a8ad;
+    align-items: center;
 
 }
 th{
